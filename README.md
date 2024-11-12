@@ -47,4 +47,4 @@ I added the following validation check when registering a student:
 - Email : Verifies input with correct email format.
 
 ## Record Link
-[Drive Link]([https://pub.dev/](https://drive.google.com/file/d/14bT8tgzxcnUvMyTs_HQwlA1pZ-b1jlJD/view?usp=sharing) "Drive")
+[Drive Link](https://pub.dev/](https://drive.google.com/file/d/14bT8tgzxcnUvMyTs_HQwlA1pZ-b1jlJD/view?usp=sharing "Drive")
