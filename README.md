@@ -11,7 +11,7 @@ It can perform basic add, update, view and delete operations, fulfilling the CRU
 
 There's also a call function, clicking the _Phone Icon_ directs you to the phone application where you can proceed to make a call.
 
-## Screenshots (Android Emulator)
+## Screenshots (Android Phone)
 
 ![Screenshot](/assets/student.png)
 
