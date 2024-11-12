@@ -117,6 +117,7 @@ class _HomePageState extends State<HomePage> {
         onPressed: () {
           Get.to(const AddNotes());
         },
+        
       ),
     );
   }
