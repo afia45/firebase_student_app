@@ -221,7 +221,7 @@ class _AddNotesState extends State<AddNotes> {
                   }
                 },
                 child: Text(
-                  "Save Notes",
+                  "Save Student",
                   style: const TextStyle(
                       color: Colors.white, fontWeight: FontWeight.bold),
                 ),
