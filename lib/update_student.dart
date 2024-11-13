@@ -67,7 +67,7 @@ class _UpdateNotesState extends State<UpdateNotes> {
         iconTheme: const IconThemeData(color: Colors.white),
         backgroundColor: Colors.blue,
         title: const Text(
-          "Updates Notes",
+          "Update Student",
           style: TextStyle(color: Colors.white),
         ),
       ),
@@ -232,7 +232,7 @@ class _UpdateNotesState extends State<UpdateNotes> {
                   }
                 },
                 child: const Text(
-                  "Update Notes",
+                  "Update Student",
                   style: TextStyle(
                       color: Colors.white, fontWeight: FontWeight.bold),
                 ),
