@@ -17,7 +17,7 @@ There's also a call function, clicking the _Phone Icon_ directs you to the phone
 
 
 ## Tools and Languages
-Flutter, Dart and SQLite
+Flutter, Dart and Firebase
 
 ## Packages
 
